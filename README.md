@@ -24,7 +24,7 @@ Composer
 Clone this repository or download the source code as a ZIP archive and extract it to a local folder.
 Install the dependencies by running composer install from the project root folder.
 
-##Usage
+## Usage
 Create a text file named employee_birthdays.txt in the project root folder. Each line of the file should contain an employee's name, birthdate, and cake preference, separated by commas (,). The date format should be Y-m-d and the cake preference should be either small or large.
 
 
@@ -38,7 +38,7 @@ from the project root folder to generate the cake day schedule.
 The application will create a file named cake_days.csv in the output folder. This file will contain a list of all cake days with the employees and cake sizes assigned to each day.
 
 
-##Testing
+## Testing
 The application includes unit tests that can be run using PHPUnit. To run the tests, use the following command from the project root folder:
 
 ###  ./vendor/bin/phpunit tests/
@@ -55,7 +55,7 @@ data/ - A directory where the application stores data files.
 tests/ - Contains the unit tests for the application.
 
 
-##Class Structure
+## Class Structure
 The application consists of the following classes:
 
 Employee - Represents an employee with a name and birthdate.
