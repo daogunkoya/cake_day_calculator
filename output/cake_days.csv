@@ -1,0 +1,11 @@
+Date,"Number of Small Cakes","Number of Large Cakes","Names of people getting cake"
+2023-05-04,1,0,John
+2023-12-22,1,0,Lisa
+2023-08-14,1,0,Michael
+2023-01-10,1,0,Sarah
+2023-10-17,1,0,Steve
+2023-06-22,1,0,Mary
+2023-12-28,0,1,"Dave, Rob"
+2023-07-11,0,1,"Sam, Kate"
+2023-07-18,1,0,Alex
+2023-07-20,0,1,"Jan, Peter"

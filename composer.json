@@ -1,0 +1,27 @@
+{
+    "name": "danielogunkoyadanielogunkoya/two_together",
+    "autoload": {
+        "psr-4": {
+            "TwoTogether\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel ogunkoya"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+
+    "scripts": {
+        "test": "vendor/bin/phpunit tests"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+    
+    
+}
