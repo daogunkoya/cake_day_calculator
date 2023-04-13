@@ -1,4 +1,4 @@
-#Cake Day Calculator
+# Cake Day Calculator
 Cake Day Calculator is a command-line PHP script that helps you calculate the cake days for employees in your organization. The script takes a list of employees' birthdays and generates a schedule of cake days, including the size of the cake (small or large) and the names of the employees who have a cake on that day.
 
 The following rules apply for cake days:
@@ -16,11 +16,11 @@ To use the script, you need to provide a list of employee birthdays in a text fi
 The script comes with a test suite that helps you ensure that the script is working as expected. You can run the test suite using PHPUnit.
 
 
-##Requirements
+## Requirements
 PHP version 7.4 or higher
 Composer
 
-##Installation
+## Installation
 Clone this repository or download the source code as a ZIP archive and extract it to a local folder.
 Install the dependencies by running composer install from the project root folder.
 
