@@ -56,11 +56,17 @@ tests/ - Contains the unit tests for the application.
 
 
 ## Class Structure
+
 The application consists of the following classes:
 
 Employee - Represents an employee with a name and birthdate.
+
 EmployeeBirthdayReader - Reads employee data from a text file.
+
 CakeItem - Represents a cake item with a size and associated employee names.
+
 CakeDayCalculator - Calculates the schedule for cake days.
+
 CakeDayWriter - Writes the schedule to a text file.
+
 autoload.php - Autoloads the necessary classes for the application.
