@@ -48,10 +48,15 @@ The application includes unit tests that can be run using PHPUnit. To run the te
 The project folder contains the following files and directories:
 
 src/ - Contains the source code for the application.
+
 index.php - The entry point for the application.
+
 data/employee_birthdays.txt - A sample input file containing employee data.
+
 output/ - A directory where the application writes the cake day schedule file.
+
 data/ - A directory where the application stores data files.
+
 tests/ - Contains the unit tests for the application.
 
 
